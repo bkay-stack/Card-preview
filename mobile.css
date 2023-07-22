@@ -1,0 +1,22 @@
+@media (max-width:768px) {
+
+        .container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        border: 1px solid green;
+    }
+
+    .card {
+        width: 100%;
+        padding: 30px;
+        font-size: 0.75rem;
+        line-height: 1.6;
+         border-top-left-radius: 3px; 
+    
+    }  
+       
+}
+
+ 
